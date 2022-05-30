@@ -1,0 +1,26 @@
+body{
+    background-image: url(/computer.jpg);
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    background-color: rgb(171,171,205);
+}
+h2{
+    background-color: rgb(254,255,92);
+}
+h3{
+    background-color: #504B5B;
+}
+h4{
+    background-color: #3CBCBE;
+}
+h5{
+    background-color: hsl(210,63%,50%);
+}
+h6{
+    background-color: hsla(210,63%,50%,0.5);
+}
